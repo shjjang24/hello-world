@@ -7,7 +7,7 @@
     <label for="email"><b>Email for 4class</b></label>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Password for 5class</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
