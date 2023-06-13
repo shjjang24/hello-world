@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Email for 2class</b></label>
     <br>
 
     <label for="psw"><b>Password</b></label>
