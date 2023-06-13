@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="email"><b>Email for 4class</b></label>
+    <label for="email"><b>Email for 4class Holy</b></label>
     <br>
 
     <label for="psw"><b>Password for 5class</b></label>
