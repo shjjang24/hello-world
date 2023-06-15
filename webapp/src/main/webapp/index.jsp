@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register Form</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account. for k8s</p>
     <hr>
 
     <label for="email"><b>pen Email for 4class newhave</b></label>
