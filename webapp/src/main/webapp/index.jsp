@@ -41,7 +41,7 @@ Gender :
 <br>  
   
 <label>   
-Phone :  
+Mobile :  
 </label>  
 <input type="text" name="country code"  value="+91" size="2"/>   
 <input type="text" name="phone" size="10"/> <br> <br>  
