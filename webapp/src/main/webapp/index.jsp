@@ -1,7 +1,7 @@
 <Html>  
 <head>   
 <title>  
-6gl Final Registration Page  
+4gl Registration Page  
 </title>  
 </head>  
 <body bgcolor="Lightskyblue">  
