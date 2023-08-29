@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>HSH-Register</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>hHelooooooo ease fill in this form to create an account.</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
@@ -21,4 +20,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-</form>
+
+
+
+
